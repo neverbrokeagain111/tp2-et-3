@@ -1,0 +1,73 @@
+
+/* Conteneur */
+
+#container{ width: 960px; 
+    background: pink;
+     color: white; 
+     margin: 0 auto;
+     }
+
+/* Tête de page */
+
+header { background: purple; 
+    height: 60px; 
+    line-height: 60px;
+     text-align: center; 
+    }
+
+    /* Barre de navigation */
+
+nav { background: blue; 
+    height: 30px; 
+    line-height: 30px; 
+    text-align: center; 
+
+
+}
+
+
+/* La section*/
+section{ height: 500px; 
+    background: gray; 
+    margin: 10px; 
+}
+
+
+/* Les Zones PZzzzzzzzzzz */
+.PZone { border: 1px solid; 
+    float: left; 
+    height: 248px; 
+    width: 468px; 
+}
+.PZ { border: 1px solid; 
+    float: left; 
+    height: 122px; 
+    line-height: 122px; 
+    text-align: center; 
+    width: 232px; 
+    font-size: medium; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* Les couleurs */
+.red
+{
+     background: red; 
+    }
+.yellow{ 
+    background: orange; 
+}
+.green{ 
+    background: green; 
+}
+.brown{
+    background: brown;
+ }
+
+ /* Pied de Page */
+footer { background: silver;
+    height: 70px;
+    line-height: 70px; 
+    text-align: center; 
+}

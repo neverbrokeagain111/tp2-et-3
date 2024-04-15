@@ -1,0 +1,85 @@
+
+
+
+.haut{
+    text-align: center;   background: #ff5555;    width: 800px;   height: 70px;   line-height: 70px;
+}
+
+.gauche{
+    text-align: center;   background: #0046f8; width: 150px; height: 530px;  float: left;    line-height: 530px;
+}
+
+.droite{
+    text-align: center;     background: #0046f8;    width: 153px; height: 530px;    float: left;    line-height: 530px;
+
+
+}
+
+.z1{
+   background-color: green; border: 1px solid;    float: left;    height: 448px;    width: 98px;
+   line-height: 530px;  color: white;
+}
+.z2{
+    background-color: green; border: 1px solid;    float: left;    height: 448px;    width: 98px;
+    line-height: 530px;  color: white;
+}
+.z3{
+
+    background-color: green;  border: 1px solid;    float: left;    height: 448px;    width: 98px;
+    line-height: 530px;  color: white;
+
+}
+.z4{
+    background-color: green;   border: 1px solid;    float: left;    height: 448px;    width: 98px;
+    line-height: 530px; color: white;
+    
+}
+.z5{
+    background-color: green;  border: 1px solid;    float: left;    height: 448px;    width: 98px;
+
+    line-height: 530px;  color: white;
+
+}
+
+.bas {
+    
+  color: rgb(255, 1, 1);  text-align: center;    bottom: -429px;    height: 80px;    line-height: 80px;    left: 151px;    position: relative;    width: 495px; background-color: yellow;
+}
+
+
+
+p {
+    color: rgb(255, 255, 255);
+    text-align: center; 
+}
+.p1{
+    text-align: center;
+   
+    color: white;
+}
+
+
+
+.r{
+    background-color: red;
+}
+
+
+@media screen and (max-width: 1900px) {
+    /* Vos styles pour les écrans extrêmement larges */
+    .container {
+      width: 1870px;
+    }
+  }
+
+
+  @media screen and (min-width: 992px) {
+    .container {
+      width: 962px;
+    }
+  }
+  
+  
+  
+
+
